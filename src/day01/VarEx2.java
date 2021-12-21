@@ -12,7 +12,7 @@ package day01;
 		double d = 3.14;
 	
 		System.out.println(ch); //변수명 자쳄나으로도 출력가능
-		System.out.println(" ch : " + ch);
+		System.out.println("ch : " + ch);
 		System.out.println("나는 " + age +  "살이 되고 싶네요");
 		System.out.println(age + year);
 		System.out.println("reaylt : " + result);
